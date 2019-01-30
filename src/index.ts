@@ -88,6 +88,7 @@ export const gradient = function(startColor: string, endColor: string, step: num
   return gradientColorArr;
 };
 
+
 /**
  * 单色十六进制颜色值计算渐变色，使用透明度计算渐变.
  * 返回的 r, g, 和 b 在 [0, 255]之间
